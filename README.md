@@ -39,4 +39,5 @@ note: src could be source check!!!
 
 Notes
 ==
-//
+
+//The Facebook APP created will have one default component and in the event of a setState the whole component is refereshed hence the output is lagging. We should use containers for each components so when a prop is setState only the target is refereshed not the whole enviornment. 
