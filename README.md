@@ -22,6 +22,7 @@ Mobile Movement
 Web-VR -Polyfill Github allows to use mobile motion to change the rendered orientation 
 
 Mobile Interaction "Clickables"
+==
 hitSlop
 // defines how far a touch event can start using onEnter and onExit
 
