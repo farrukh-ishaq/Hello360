@@ -1,5 +1,6 @@
 # Hello360
 
+
 Basic Setup Node configuration 
 ==
 npm install 12.9.0
@@ -14,7 +15,7 @@ npm create-360-cli /*Create APP*/
 
 Native Modules
 ==
-This package allowed me to call methods in run time!!! I need more reserach, In the Surface-repo I am calling 3d shapes with the help of nativeModule which is a method I created in client.js
+This package allowed me to call methods in run time!!! I need more research, In the Surface-repo I am calling 3d shapes with the help of nativeModule which is a method I created in client.js
 
 Mobile Movement
 ==
